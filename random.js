@@ -1,3 +1,4 @@
+console.log("JS Loaded successfully");
 let main = document.querySelector("main")
 let h1 = document.querySelector("h1")
 let btn = document.querySelector("button")
